@@ -1,3 +1,7 @@
+# This is temporary fork for fix below issue
+
+https://github.com/githubnemo/CompileDaemon/pull/76
+
 # Very simple Compile Daemon for Go [![GoDoc](https://godoc.org/github.com/githubnemo/CompileDaemon?status.png)](http://godoc.org/github.com/githubnemo/CompileDaemon)
 
 Watches your .go files in a directory and invokes `go build` if
