@@ -1,4 +1,4 @@
-module github.com/ypresto/CompileDaemon
+module github.com/spicescode/CompileDaemon
 
 go 1.16
 
